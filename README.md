@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iri-sem
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning python, but it takes time
-- 💞️ I’m looking to collaborate on python codes
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning RoR, but it takes time
+- 💞️ I’m looking to collaborate on Roby on Rails codes
 - 📫 How to reach me irina.semenova.phd@gmail.com
 
 <!---
